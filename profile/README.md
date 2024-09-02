@@ -7,5 +7,14 @@
   align="right"
   width="300"
   src="../images/logo.png"
-  alt="Coding"
+  alt="Open Code Chicago official logo"
+/>
+
+<span>Upcoming Event:</span>
+
+<img
+  align="left"
+  width="300"
+  src="../images/september7th.png"
+  alt="Upcoming Open Code Chicago event"
 />
