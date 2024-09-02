@@ -14,7 +14,7 @@
 
 <img
   align="left"
-  width="300"
-  src="images/SEPTEMBER 7th.png"
+  width="500"
+  src="../images/september7th.png"
   alt="Upcoming Open Code Chicago event"
 />
