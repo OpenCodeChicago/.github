@@ -15,7 +15,7 @@
 <a href="https://www.meetup.com/open-code-chicago" target="_blank">
     <img src="https://img.shields.io/badge/Meetup-%23ED1C40.svg?&style=for-the-badge&logo=meetup&logoColor=white" alt="Meetup" style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/OpenCodeChicago" target="_blank">
+<a href="https://github.com/Alexandrbig1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 
