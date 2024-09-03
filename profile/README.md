@@ -13,9 +13,16 @@
 ---
 
 **Get Involved**
-- Join our [Discord server](https://discord.gg/t6MGsCqdFX).
-- Contribute to our [GitHub repositories](https://github.com/OpenCodeChicago).
-- Attend our [Meetup events](https://www.meetup.com/open-code-chicago).
+<a href="https://discord.gg/t6MGsCqdFX" target="_blank">
+    <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.meetup.com/open-code-chicago" target="_blank">
+    <img src="https://img.shields.io/badge/Meetup-%23ED1C40.svg?&style=for-the-badge&logo=meetup&logoColor=white" alt="Meetup" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/OpenCodeChicago" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+
 
 **Our Mission**
 To bring together IT enthusiasts of all skill levels—whether you're an experienced developer, a networking enthusiast, or just starting out—to connect, share knowledge, and contribute to meaningful projects.
