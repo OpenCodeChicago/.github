@@ -20,6 +20,8 @@
 ## Our Mission
 To bring together IT enthusiasts of all skill levels—whether you're an experienced developer, a networking enthusiast, or just starting out—to connect, share knowledge, and contribute to meaningful projects.
 
+🚀 **Let's build something amazing together!**
+
 ---
 
 <span>Upcoming Event:</span>
