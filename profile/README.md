@@ -26,15 +26,11 @@ To bring together IT enthusiasts of all skill levels—whether you're an experie
 
 **Upcoming Event**:
 
-<div>
   <img
   align="left"
   width="500"
   src="../images/september7th.png"
   alt="Upcoming Open Code Chicago event"
 />
-</div>
-
----
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>We love connecting with different people</b> so if you want to say <b>hi, We'll be happy to meet you more!</b> :)</em>
