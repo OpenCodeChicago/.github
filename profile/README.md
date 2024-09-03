@@ -12,12 +12,12 @@
 
 ---
 
-## Get Involved
+**Get Involved**
 - Join our [Discord server](https://discord.gg/t6MGsCqdFX).
 - Contribute to our [GitHub repositories](https://github.com/OpenCodeChicago).
 - Attend our [Meetup events](https://www.meetup.com/open-code-chicago).
 
-## Our Mission
+**Our Mission**
 To bring together IT enthusiasts of all skill levels—whether you're an experienced developer, a networking enthusiast, or just starting out—to connect, share knowledge, and contribute to meaningful projects.
 
 🚀 **Let's build something amazing together!**
