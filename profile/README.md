@@ -31,6 +31,25 @@ Welcome to the official repository of **Open Code Chicago**! We are a dynamic op
 - Foster a supportive and inclusive community.
 - Encourage collaboration and innovation in technology.
 
+---
+
+## How to Get Involved
+
+1. **Join Our Community:**
+   - Follow us on [MeetUp](https://www.meetup.com/open-code-chicago/) for the latest updates.
+   - Join our [Discord](https://discord.gg/t6MGsCqdFX) community to connect with other members.
+
+2. **Attend Our Events:**
+   - Participate in our regular events, meetups, workshops, and hackathons.
+
+3. **Contribute to Our Projects:**
+   - Explore our open-source projects and contribute to them. 
+   - Review our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+
+4. **Share Your Knowledge:**
+   - Write articles, create tutorials, or give talks at our events. 
+   - Submit your content ideas via our [GitHub Issues](#).
+
 🚀 **Let's build something amazing together!**
 
 ---
