@@ -1,6 +1,6 @@
 **<h1 align="center">Welcome<span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span> to Open Code Chicago</h1>**
 
-**Open Code Chicago** is a dynamic open-source community dedicated to collaboration, innovation, and learning in tech. We unite IT enthusiasts of all levels—whether you're a seasoned developer or just starting out—to connect, share knowledge, and contribute to impactful projects.
+Welcome to the official repository of **Open Code Chicago**! We are a dynamic open-source community dedicated to fostering collaboration, innovation, and learning among IT enthusiasts.
 
 <img
   align="right"
@@ -21,8 +21,15 @@
 
 ---
 
+**About Us**
+
+**Open Code Chicago** is a vibrant community of developers, designers, and IT professionals passionate about open-source software, continuous learning, and community-driven development. We provide a platform for members to share knowledge, collaborate on projects, and network with like-minded individuals.
+
 **Our Mission**
-To empower individuals through open-source collaboration, fostering a community where innovation thrives, learning is continuous, and technology is used to make a positive impact. We believe in the power of collective effort to drive meaningful change in the tech world.
+- Promote open-source contributions.
+- Provide learning opportunities and resources for all skill levels.
+- Foster a supportive and inclusive community.
+- Encourage collaboration and innovation in technology.
 
 🚀 **Let's build something amazing together!**
 
