@@ -44,11 +44,11 @@ Welcome to the official repository of **Open Code Chicago**! We are a dynamic op
 
 3. **Contribute to Our Projects:**
    - Explore our open-source projects and contribute to them. 
-   - Review our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+   /*- Review our [Contributing Guidelines](CONTRIBUTING.md) to get started.*/
 
 4. **Share Your Knowledge:**
    - Write articles, create tutorials, or give talks at our events. 
-   - Submit your content ideas via our [GitHub Issues](#).
+   /*- Submit your content ideas via our [GitHub Issues](#).*/
 
 🚀 **Let's build something amazing together!**
 
