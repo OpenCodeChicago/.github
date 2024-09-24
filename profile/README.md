@@ -10,7 +10,7 @@ Welcome to the official repository of **Open Code Chicago**! We are a dynamic op
 />
 
 <a href="https://www.youtube.com/@AlexSmaginDev" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.gg/t6MGsCqdFX" target="_blank">
     <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
