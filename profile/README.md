@@ -46,7 +46,7 @@ Welcome to the official repository of **Open Code Chicago**! We are a dynamic op
   <img
   align="left"
   width="500"
-  src="../images/september28.png"
+  src="../images/october12.png"
   alt="Upcoming Open Code Chicago event"
 />
 
