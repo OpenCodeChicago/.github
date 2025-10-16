@@ -5,7 +5,7 @@ Welcome to the official repository of **Open Code Chicago**! We are a dynamic op
 <img
   align="right"
   width="300"
-  src="../images/logo.png"
+  src="../images/logo.jpg"
   alt="Open Code Chicago official logo"
 />
 
@@ -52,7 +52,7 @@ We’re also organizing our ideas and tech discussions on a **Planning Board**:
 
 <img
   width="500"
-  src="../images/hacktoberfest2025.png"
+  src="../images/hacktoberfest2025.jpg"
   alt="Upcoming Open Code Chicago event"
 />
 
