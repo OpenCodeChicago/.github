@@ -59,3 +59,42 @@ We’re also organizing our ideas and tech discussions on a **Planning Board**:
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>We love connecting with different people</b> so if you want to say <b>hi, We'll be happy to meet you more!</b> :)</em>
+
+---
+
+## API Documentation
+
+This repository includes a small Express API with interactive documentation powered by Swagger UI.
+
+Quickstart:
+
+```bash
+# from the repository root
+npm install
+npm start
+```
+
+Open the docs in your browser at: http://localhost:3000/api-docs
+
+Included endpoints (examples):
+
+- GET /mentors
+- GET /mentors/:id
+
+API docs (Swagger)
+
+After installing dependencies and starting the server, open the interactive API docs at:
+
+http://localhost:3000/api-docs
+
+If you don't have the dependencies installed locally, run:
+
+```bash
+npm install
+```
+
+Then start the server with:
+
+```bash
+npm start
+```
