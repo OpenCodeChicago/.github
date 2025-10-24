@@ -1,0 +1,16 @@
+{
+  "name": "opencode-api",
+  "version": "1.0.0",
+  "description": "Sample Express API with Swagger docs for OpenCodeChicago",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "OpenCodeChicago",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3"
+  }
+}
